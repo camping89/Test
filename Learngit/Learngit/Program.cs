@@ -6,6 +6,7 @@ namespace Learngit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is master branch");
             Console.WriteLine("This is training branch.");
         }
     }
