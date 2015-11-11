@@ -8,6 +8,8 @@ namespace Learngit
         {
             Console.WriteLine("this is master branch");
             Console.WriteLine("This is training branch.");
+
+            Console.WriteLine("Test for rebase");
         }
     }
 }
